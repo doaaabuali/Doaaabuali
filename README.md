@@ -20,13 +20,13 @@
 
 ## 📄 Resume
 
-📥 [Download My Resume](./assets/resume.pdf)
+📥 [Download My Resume](./assets/Doaa's Resume (1).pdf)
 
 ---
 
 ## 📸 About Me
 
-![My Profile Picture](./assets/myphoto.jpg)
+![My Profile Picture](./assets/1.jpg)
 
 ---
 
